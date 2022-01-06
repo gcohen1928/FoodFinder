@@ -1,0 +1,10 @@
+import styled from "styled-components"
+import React from 'react' 
+import { FlatList } from "react-native"
+
+export const RestaurantList = styled(FlatList).attrs({
+    contentContainerStyle: {
+        padding: 16,
+    },
+})``
+

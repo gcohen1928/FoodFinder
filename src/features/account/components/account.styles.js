@@ -33,5 +33,8 @@ export const AuthInput = styled(TextInput)`
 `;
 
 export const Title = styled.Text`
-    font-size: 50px
+    margin-bottom: 50px
+    font-size: 65px
+    color: ${colors.brand.primary}
+    font-weight: bold
 `

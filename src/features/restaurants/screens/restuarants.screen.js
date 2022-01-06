@@ -14,13 +14,7 @@ import { Search } from "../components/search.component"
 import { TouchableOpacity } from "react-native-gesture-handler";
 import {FavoritesContext} from "../../../services/favorites/favorites.context"
 import { FavoritesBar } from "../../../components/favorites/favorites-bar.component";
-
-
-const RestaurantList = styled(FlatList).attrs({
-    contentContainerStyle: {
-        padding: 16,
-    },
-})``
+import { RestaurantList } from "../components/restaurant-list.styles";
 
 const Loading = styled(ActivityIndicator)`
   marginLeft: -25px;
