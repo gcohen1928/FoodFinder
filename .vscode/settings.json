@@ -1,0 +1,7 @@
+{
+    "eslint.nodePath": "/Users/gabecohen/Desktop/ReactCourse/MealsToGo",
+    "eslint.alwaysShowStatus": true,
+    "eslint.debug": true,
+    "eslint.format.enable": true,
+    "eslint.validate": [ "javascript", "javascriptreact", "html", "typescriptreact" ],
+}
