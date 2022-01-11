@@ -1,14 +1,15 @@
-<h1 align="center"><project-name></h1>
+<h1 align="center">Food Finder</h1>
 
-<p align="center"><project-description></p>
+<p align="center">This app displays menus and locations of major restaurants in Chicago, San Francisco, Antwerp, and Tornoto</p>
 
 ## Screenshots
-
-![Login](/assets/screenshots/IMG_9981.png  "Login Page")
-
-![Home Page](/assets/screenshots/IMG_9982.png "Home Page")
   
-  ![Map](/assets/screenshots/IMG_9983.png "Map")
+ <p align="center">
+  <img src="/assets/screenshots/IMG_9981.PNG" width="256" height="550">
+  <img src="/assets/screenshots/IMG_9982.PNG" width="256" height="550">
+  <img src="/assets/screenshots/IMG_9983.PNG" width="256" height="550">
+</p>
+
 
 ![](/screenshots/3.png)
 
